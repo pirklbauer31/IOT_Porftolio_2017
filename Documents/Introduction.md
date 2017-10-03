@@ -104,4 +104,4 @@ File Permission Problem occured here!
 - Change permission via ssh with
 	- sudo chmod -R 755 /home/pi/apps/arduino
 	
-- Worked wiith: Luis Hainberger
+- Worked with: Luis Hainberger
