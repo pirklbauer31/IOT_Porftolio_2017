@@ -104,4 +104,13 @@ File Permission Problem occured here!
 - Change permission via ssh with
 	- sudo chmod -R 755 /home/pi/apps/arduino
 	
+# WebServer on Arduino
+- Changed WiFi Webserver Example (ssid and password)
+
+Now you can change LED status via Browser:
+- to switch on: http://192.168.12.248/gpio/0
+- to switch off: http://192.168.12.248/gpio/1
+
+We first tried using the aREST API but it didn't workt out.
+
 - Worked with: Luis Hainberger
