@@ -36,7 +36,7 @@ const char* mqtt_server = "192.168.12.1";
 Servo myservo;  // create servo object to control a servo
 
 const int buttonPin = 0;
-const int buzzerPin = 1;
+const int buzzerPin = 16;
 
 // variables will change:
 int buttonState = 0;         // variable for reading the pushbutton status
@@ -86,20 +86,22 @@ void callback(String topic, byte* message, unsigned int length) {
   if(topic=="heater/power"){
       Serial.print("Switching heater power to ");
       if(messageTemp == "on"){
-        //digitalWrite(LED_BUILTIN, LOW);
+        digitalWrite(LED_BUILTIN, LOW);
         Serial.print("On");
       }
       else if(messageTemp == "off"){
-        //digitalWrite(LED_BUILTIN, HIGH);
+        digitalWrite(LED_BUILTIN, HIGH);
         Serial.print("Off");
       }
   }
   if(topic=="heater/gaswarning"){
       if(messageTemp == "on"){
-        digitalWrite(LED_BUILTIN, LOW);
+        //digitalWrite(LED_BUILTIN, LOW);
+        Serial.print("Gaswarnign on!");
+        digitalWrite(buzzerPin, LOW);
       }
       else if(messageTemp == "off"){
-        digitalWrite(LED_BUILTIN, HIGH);
+        digitalWrite(buzzerPin, HIGH);
       }
   }
   Serial.println();
@@ -134,6 +136,7 @@ void reconnect() {
 void setup() {
   pinMode(BUILTIN_LED, OUTPUT);     // Initialize the BUILTIN_LED pin as an output
   digitalWrite(LED_BUILTIN, HIGH); 
+  pinMode(buzzerPin, OUTPUT);
   pinMode(buttonPin, INPUT);        // initialize the pushbutton pin as an input
   Serial.begin(115200);
   setup_wifi();
