@@ -1,2 +1,71 @@
 # IOT_Porftolio_2017
 My Portfolio for the Internet of Things course of the 5th semester
+
+## Team:
+Luis Hainberger (https://github.com/LuisHainberger/IoT-Portfolio)
+
+Kevin Pirklbauer
+
+## Lesson 1:
+- Introduction
+- Introduction to IoT
+
+### Exercise 1:
+- Setting up the Raspberry PI
+- Blink Example on Arduino
+- Webserver Example
+
+Notes can be found at:  https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/01_Introduction_S1510237028.md
+
+Exercise Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX01/arduino_wifi_test
+
+## Lesson 2:
+- Low Level Buses
+- Sensors and Actors
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/02_Notes.md
+
+### Exercise 2:
+- Use of IFTTT (IF This Than That)
+- Use of Button and LCD
+- IoT Stories
+
+Exercise Notes: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/02_Exercise_Notes.md
+
+Exercise Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX02/HTTPSRequest
+
+## Lesson 3:
+- IoT Exchange Formats
+- Consortiums / Alliances / Foundations
+- Protocols
+  - CoAP
+  - MQTT
+  
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/03_Notes.md
+
+### Exercise 3:
+- CoAP
+- MQTT
+
+Exercise Notes: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise3.md
+
+Exercise Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX03/MQTT_Simulator
+
+## Lesson 4:
+- Scaling and Testing
+- Node-RED
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/04_Notes.md
+
+### Exercise 4:
+- Node-RED
+- Mongoose OS
+
+Exercise Notes: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise4.md
+
+Exercise Files: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX04
+
+## Project 1:
+Scenario and description: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
+
+Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
