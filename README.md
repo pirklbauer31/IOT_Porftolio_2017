@@ -69,3 +69,22 @@ Exercise Files: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/E
 Scenario and description: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project_1.md
 
 Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_01
+
+## Lesson 5:
+- IOT Nice to Haves
+- Introduction to UlnoIoT
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/05_Participation_S151723028.md
+
+### Exercise 5:
+- Updating Project 1 to use UlnoIoT
+
+Exercise Notes: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/05_Exercise_Notes.md
+
+Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercises/EX05
+
+## Lesson 6:
+- More on UlnoIoT
+- Live Demo
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/06_Participation_S1510237028.md
