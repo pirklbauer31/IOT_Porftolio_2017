@@ -94,18 +94,47 @@ Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/m
 
 Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/07_Participation_S1510237028.md
 
-### Exercise 07:
+### Exercise 7:
 - Work on Project 2
 - Getting scale to work with ulnoiot
 
 Exercise Notes: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise7.md
 
-## Project 02:
+## Project 2:
+- Liquid Measurement Challenge
 
+Project Documentation can be found at: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/project2.md
+
+Project Sources can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_02
 
 ## Lesson 8:
 - IoT Security Measures
 - LORA
 - TTN (The Things Network)
 
-Notes can be found at: 
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/08_Participation_S1510237028.md
+
+### Exercise 8:
+- Setup / test LORA
+- Continue work on Project 2
+
+Exercise Notes: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise8.md
+
+## Lesson 9:
+- IoT Maintenance
+- Data visualization and analytics
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/09_Participation_S1510237028.md
+
+### Exercise 9:
+- Designed Scenario for Project 3
+
+## Lesson 10:
+- IoT Business Opportunities
+- Interview with Michael Schloh von Bennewitz
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/10_Participation_S1510237028.md
+
+### Exercise 10:
+- Work on Project 3
+
