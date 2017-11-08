@@ -88,3 +88,24 @@ Sources: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Exercise
 - Live Demo
 
 Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/06_Participation_S1510237028.md
+
+## Lesson 7:
+- Internet of Broken Things
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/07_Participation_S1510237028.md
+
+### Exercise 07:
+- Work on Project 2
+- Getting scale to work with ulnoiot
+
+Exercise Notes: https://github.com/LuisHainberger/IoT-Portfolio/blob/master/Documents/exercise7.md
+
+## Project 02:
+
+
+## Lesson 8:
+- IoT Security Measures
+- LORA
+- TTN (The Things Network)
+
+Notes can be found at: 
