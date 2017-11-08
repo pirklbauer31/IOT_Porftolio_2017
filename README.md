@@ -138,3 +138,22 @@ Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/m
 ### Exercise 10:
 - Work on Project 3
 
+## Lesson 11:
+- IoT Success Stories
+- Interview with Tamer Aslan
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/11_Participation_S1510237028.md
+
+### Exercise 11:
+- Work on Project 3
+
+## Lesson 12:
+- Project Presentation Day
+
+Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/master/Documents/12_Participation_S1510237028.md
+
+## Project 3:
+- Smart Cooling Room Project
+- Realized with other group (Michael Breiteneder and Johannes Mayrhofer)
+
+Project Sources (ulnoiot and node-red) can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_03
