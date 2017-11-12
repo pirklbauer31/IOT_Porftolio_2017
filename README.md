@@ -157,3 +157,5 @@ Notes can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/blob/m
 - Realized with other group (Michael Breiteneder and Johannes Mayrhofer)
 
 Project Sources (ulnoiot and node-red) can be found at: https://github.com/pirklbauer31/IOT_Porftolio_2017/tree/master/Project_03
+
+Project Description can be found at: https://github.com/mbreiteneder/InternetOfThings/blob/master/Projects/Project%203/ProjectSummary.md
